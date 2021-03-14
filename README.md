@@ -20,21 +20,25 @@ C#, Python, Git, Cassandra, Kubernetes, Docker, Terraform, Nginx, Kong, HAProxy,
 Go, Prometheus, Salt, Ansible, Digital Ocean
 
 ## Certifications
+**CKA** -  **Study Process - Exam APRIL**<br>
+The Certified Kubernetes Administrator (CKA) program has been developed by the Cloud Native Computing Foundation (CNCF), in collaboration with The Linux Foundation, to help expand the Kubernetes ecosystem through standardized training and certification. <br>
+Apr2021<br>
+
 **CKAD** <br>
 The Certified Kubernetes Application Developer (CKAD) program has been developed by the Cloud Native Computing Foundation (CNCF), in collaboration with The Linux Foundation, to help expand the Kubernetes ecosystem through standardized training and certification. <br>
-Fev 2021<br>
+Fev2021<br>
 
 **MCTS: .NET Framework 4, Data Access** <br>
 Microsoft
-Jan 2015<br>
+Jan2015<br>
 
 **MS: Programming in C# Specialist** <br>
 Microsoft
-Jan 2015<br>
+Jan2015<br>
 
 **MCPS: Microsoft Certified Professional** <br>
 Microsoft<br>
-Mar 2014<br>
+Mar2014<br>
 
 ## Projects
 **Build Scalable Platform with Kubernetes**<br>
