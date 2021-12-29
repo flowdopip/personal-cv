@@ -14,15 +14,22 @@ A passionate Software Architect, which over the years has specialized in web and
 ## Skills
 
 **Medium level** <br>
-C#, Python, Git, Cassandra, Kubernetes, Docker, Terraform, Nginx, Kong, HAProxy, Consul, ArgoCD, Flux, Vault, Helm, Azure Cloud
+C#, Python, Go, Git, Cassandra, Kubernetes, Docker, Terraform, Nginx, Kong, HAProxy, Consul, ArgoCD, Vault, Helm, Azure Cloud
 
 **Beginner level** <br>
-Go, Prometheus, Salt, Ansible, Digital Ocean
+Prometheus, Salt, Ansible, Digital Ocean
 
 ## Certifications
-**CKA** -  **Study Process - Exam APRIL**<br>
-The Certified Kubernetes Administrator (CKA) program has been developed by the Cloud Native Computing Foundation (CNCF), in collaboration with The Linux Foundation, to help expand the Kubernetes ecosystem through standardized training and certification. <br>
-Apr2021<br>
+
+**CKS** -  **Study Process - Exam**
+The Certified Kubernetes Security Specialist (CKS) program provides assurance that a CKS has the skills, knowledge, and competence on a broad range of best practices for securing container-based applications and Kubernetes platforms during build, deployment and runtime. CKA certification is required to sit for this exam.
+<br>
+Fev2022<br>
+
+**CKA**<br>
+The Certified Kubernetes Administrator (CKA) program has been developed by the Cloud Native Computing Foundation (CNCF), in collaboration with The Linux Foundation, to help expand the Kubernetes ecosystem through standardized training and certification. 
+<br>
+Nov2021<br>
 
 **CKAD** <br>
 The Certified Kubernetes Application Developer (CKAD) program has been developed by the Cloud Native Computing Foundation (CNCF), in collaboration with The Linux Foundation, to help expand the Kubernetes ecosystem through standardized training and certification. <br>
@@ -40,20 +47,39 @@ Jan2015<br>
 Microsoft<br>
 Mar2014<br>
 
+## Learning
+**Azure Learning**<br>
+* LEVEL 8
+* 18975 /23599 XP<br>
+
+**Udemy** <br>
+
 ## Projects
+**Developers Productivity**<br>
+* CI Pipeline
+* Build base and Parent docker images
+* Declarative Build
+* Declarative Compliance NFRs
+* Development Handbook
+* Testing Strategy (Unit Test, Contract Test, Mock Test, Integration Test ...)
+Fev2020 - present<br>
+
 **Build Scalable Platform with Kubernetes**<br>
-* CI/CD Pipeline
+* CD Pipeline
 * Canary / Blue Green Deployments
 * Vertical / Horizontal Scale
 * Secret Management
 * Network Policies
 * External DNS
 * Azure Firewall
+* Multi-Cluster Management
+* Ship Logging Events
 Fev2020 - present<br>
 
 **Build Scalable Traffic Management Platform**<br>
 * Traffic Shaping/Shadowing
 * Api Gateway - Kong / OpenAPI
+* Api Gateway - Kong Authentication
 * Service Discovery / Registry with Consul
 * DNS Management
 * Network Policies
