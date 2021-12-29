@@ -14,7 +14,7 @@ A passionate Software Architect, which over the years has specialized in web and
 ## Skills
 
 **Medium level** <br>
-C#, Python, Go, Git, Cassandra, Kubernetes, Docker, Terraform, Nginx, Kong, HAProxy, Consul, ArgoCD, Vault, Helm, Azure Cloud
+C#, Python, Go, Git, Cassandra, Redis, ETCD, SQLServer, Kubernetes, Docker, Containerd, Terraform, Nginx, Kong, HAProxy, Consul, ArgoCD, Vault, Helm, Azure Cloud
 
 **Beginner level** <br>
 Prometheus, Salt, Ansible, Digital Ocean
@@ -49,8 +49,7 @@ Mar2014<br>
 
 ## Learning
 **Azure Learning**<br>
-* LEVEL 8
-* 18975 /23599 XP<br>
+* LEVEL 8 - 18975 /23599 XP<br>
 
 **Udemy** <br>
 
@@ -62,6 +61,7 @@ Mar2014<br>
 * Declarative Compliance NFRs
 * Development Handbook
 * Testing Strategy (Unit Test, Contract Test, Mock Test, Integration Test ...)
+<br>
 Fev2020 - present<br>
 
 **Build Scalable Platform with Kubernetes**<br>
@@ -74,6 +74,7 @@ Fev2020 - present<br>
 * Azure Firewall
 * Multi-Cluster Management
 * Ship Logging Events
+<br>
 Fev2020 - present<br>
 
 **Build Scalable Traffic Management Platform**<br>
@@ -83,6 +84,7 @@ Fev2020 - present<br>
 * Service Discovery / Registry with Consul
 * DNS Management
 * Network Policies
+<br>
 Fev2020 - present<br>
 
 **Build User Data Geo-Distribution Regulation**<br>
@@ -90,18 +92,21 @@ Fev2020 - present<br>
 * Geo-Distrubution
 * Manage Personal Identifiable Information (PII)
 * OpenID AuthN & AuthZ
+<br>
 Sept2019 - Fev2020<br>
 
 **Build Geo-distributed Platform**<br>
 * Geo-redundacy
 * Platform Geodistribution Active-Active, multi-zone
 * Reliable Platform
+<br>
 Jan2017 - Ago2019<br>
 
 **Build Commerce Platform**<br>
 * Convert Monolithic to Service Oriented Architecture
 * Build Public API ( Gateway Pattern )
 * CQS / CQRS
+<br>
 Jan2016 - Dez2016<br>
 
 ## Education
@@ -113,6 +118,9 @@ Sept 2009<br>
 
 **Sept 2012 - present** <br>
 * Farfetch
+    * **Principal Software Architect**<br>
+    Mar 2021 – Present<br>
+    Employment Duration - 10 mos<br>
     * **Senior Software Architect**<br>
     Apr 2018 – Present<br>
     Employment Duration - 3 yrs<br>
