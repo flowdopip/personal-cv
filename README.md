@@ -9,19 +9,19 @@
 **Marital Status:** Maried  <br>
 
 ## Summary
-A passionate Software Architect, which over the years has specialized in web and platform solutions development, with a special focuson new technologies.
+A passionate Software Architect, which over the years has specialized in web and platform solutions development, with a special focus on new technologies.
 
 ## Skills
 
 **Medium level** <br>
-C#, Python, Go, Git, Cassandra, Redis, ETCD, SQLServer, Kubernetes, Docker, Containerd, Terraform, Nginx, Kong, HAProxy, Consul, ArgoCD, Vault, Helm, Azure Cloud
+C#, Python, Go, Lua, Git, Cassandra, Redis, ETCD, SQLServer, Kubernetes, Docker, Containerd, Terraform, Nginx, Kong, HAProxy, Consul, ArgoCD, Vault, Helm, Azure Cloud
 
 **Beginner level** <br>
 Prometheus, Salt, Ansible, Digital Ocean
 
 ## Certifications
 
-**CKS** -  **Study Process - Exam**
+**CKS** -  **[Study Process] - Exam**
 The Certified Kubernetes Security Specialist (CKS) program provides assurance that a CKS has the skills, knowledge, and competence on a broad range of best practices for securing container-based applications and Kubernetes platforms during build, deployment and runtime. CKA certification is required to sit for this exam.
 <br>
 Fev2022<br>
@@ -29,10 +29,12 @@ Fev2022<br>
 **CKA**<br>
 The Certified Kubernetes Administrator (CKA) program has been developed by the Cloud Native Computing Foundation (CNCF), in collaboration with The Linux Foundation, to help expand the Kubernetes ecosystem through standardized training and certification. 
 <br>
+[Credential ID](https://www.credly.com/badges/39782d11-f39d-4867-a549-67802490b3c2?source=linked_in_profile)</br>
 Nov2021<br>
 
 **CKAD** <br>
 The Certified Kubernetes Application Developer (CKAD) program has been developed by the Cloud Native Computing Foundation (CNCF), in collaboration with The Linux Foundation, to help expand the Kubernetes ecosystem through standardized training and certification. <br>
+[Credential ID](https://www.credly.com/badges/37cde8cc-d012-4d6b-9192-4b09a355c65c?source=linked_in_profile)</br>
 Fev2021<br>
 
 **MCTS: .NET Framework 4, Data Access** <br>
@@ -40,7 +42,8 @@ Microsoft
 Jan2015<br>
 
 **MS: Programming in C# Specialist** <br>
-Microsoft
+Microsoft</br>
+[Credential ID](https://www.credly.com/badges/97fc2898-9d9f-4629-9718-caabea775758/public_url)</br>
 Jan2015<br>
 
 **MCPS: Microsoft Certified Professional** <br>
@@ -49,20 +52,29 @@ Mar2014<br>
 
 ## Learning
 **Azure Learning**<br>
-* LEVEL 8 - 18975 /23599 XP<br>
+* LEVEL 9 (975 /34199 XP)<br>
 
 **Udemy** <br>
 
 ## Projects
 **Developers Productivity**<br>
-* CI Pipeline
-* Build base and Parent docker images
-* Declarative Build
-* Declarative Compliance NFRs
-* Development Handbook
+In this project, we get the opportunity to review all Software Development Lifecycle (SDLC) to improve Teams Efficiency, Software quality, best practices and security concerns to support a large scale business.
+Start from self-service and Declarative Builds and Tests, supported by standard functional requirements to guarantee all controls like Naming conventions, Code Analysis, security checks and docker signatures.
+Testing Strategy we focus in review all test phases, Unit Test, "Mock Test", Contract Test, Integration Test and Smoke Test. Finally, with all of these states, we can build an ephemeral environment to support the daily basis for Eng Teams.
+As an Architect for this initiative, I´ve been responsible for designing the long term vision, supporting all decisions with References Architectures and putting hands-on POCs and team support.
+
+* CI Pipeline (PCI-DSS Compliance, Thrust of Origin by Design)
+* Build Base and Parent docker images
+* Declarative Build and Tests
+* Declarative Compliance NFRs (Name Check, Code Analysis, Security Checks)
+* Development Handbook ( All about SDLC )
 * Testing Strategy (Unit Test, Contract Test, Mock Test, Integration Test ...)
 <br>
-Fev2020 - present<br>
+</br>
+**Tech Types:** Kubernetes, Docker, Jenkins, Python, Groovy, Prometheus, Grafana
+</br>
+</br>
+Fev2020 - present ( 2 years )<br>
 
 **Build Scalable Platform with Kubernetes**<br>
 * CD Pipeline
@@ -75,7 +87,10 @@ Fev2020 - present<br>
 * Multi-Cluster Management
 * Ship Logging Events
 <br>
-Fev2020 - present<br>
+</br>
+**Tech Types:** Kubernetes, Docker, Jenkins, Python, Groovy, Go, Consul, Fluentbit, Salt, Terraform, Event Hub, Az Firewall, NSG, Calico, Prometheus, Grafana</br>
+</br>
+Fev2020 - present ( 2 years ) </br>
 
 **Build Scalable Traffic Management Platform**<br>
 * Traffic Shaping/Shadowing
@@ -85,7 +100,10 @@ Fev2020 - present<br>
 * DNS Management
 * Network Policies
 <br>
-Fev2020 - present<br>
+</br>
+**Tech Types:** Az Scale Sets, Docker, Jenkins, Python, Lua, Salt, Az Firewall, Prometheus, Grafana, Kong, Nginx, HA Proxy</br>
+</br>
+Fev2020 - present ( 2 years )<br>
 
 **Build User Data Geo-Distribution Regulation**<br>
 * Segregate User Data by Country Law
