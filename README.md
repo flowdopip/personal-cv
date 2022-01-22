@@ -29,12 +29,12 @@ Fev2022<br>
 **CKA**<br>
 The Certified Kubernetes Administrator (CKA) program has been developed by the Cloud Native Computing Foundation (CNCF), in collaboration with The Linux Foundation, to help expand the Kubernetes ecosystem through standardized training and certification. 
 <br>
-[Credential ID](https://www.credly.com/badges/39782d11-f39d-4867-a549-67802490b3c2?source=linked_in_profile)</br>
+[Credential ID](https://www.credly.com/badges/39782d11-f39d-4867-a549-67802490b3c2?source=linked_in_profile)<br>
 Nov2021<br>
 
 **CKAD** <br>
 The Certified Kubernetes Application Developer (CKAD) program has been developed by the Cloud Native Computing Foundation (CNCF), in collaboration with The Linux Foundation, to help expand the Kubernetes ecosystem through standardized training and certification. <br>
-[Credential ID](https://www.credly.com/badges/37cde8cc-d012-4d6b-9192-4b09a355c65c?source=linked_in_profile)</br>
+[Credential ID](https://www.credly.com/badges/37cde8cc-d012-4d6b-9192-4b09a355c65c?source=linked_in_profile)<br>
 Fev2021<br>
 
 **MCTS: .NET Framework 4, Data Access** <br>
@@ -42,8 +42,8 @@ Microsoft
 Jan2015<br>
 
 **MS: Programming in C# Specialist** <br>
-Microsoft</br>
-[Credential ID](https://www.credly.com/badges/97fc2898-9d9f-4629-9718-caabea775758/public_url)</br>
+Microsoft<br>
+[Credential ID](https://www.credly.com/badges/97fc2898-9d9f-4629-9718-caabea775758/public_url)<br>
 Jan2015<br>
 
 **MCPS: Microsoft Certified Professional** <br>
@@ -70,10 +70,10 @@ As an Architect for this initiative, I´ve been responsible for designing the lo
 * Development Handbook ( All about SDLC )
 * Testing Strategy (Unit Test, Contract Test, Mock Test, Integration Test ...)
 <br>
-</br>
+<br>
 **Tech Types:** Kubernetes, Docker, Jenkins, Python, Groovy, Prometheus, Grafana
-</br>
-</br>
+<br>
+<br>
 Fev2020 - present ( 2 years )<br>
 
 **Build Scalable Platform with Kubernetes**<br>
@@ -87,10 +87,10 @@ Fev2020 - present ( 2 years )<br>
 * Multi-Cluster Management
 * Ship Logging Events
 <br>
-</br>
-**Tech Types:** Kubernetes, Docker, Jenkins, Python, Groovy, Go, Consul, Fluentbit, Salt, Terraform, Event Hub, Az Firewall, NSG, Calico, Prometheus, Grafana</br>
-</br>
-Fev2020 - present ( 2 years ) </br>
+<br>
+**Tech Types:** Kubernetes, Docker, Jenkins, Python, Groovy, Go, Consul, Fluentbit, Salt, Terraform, Event Hub, Az Firewall, NSG, Calico, Prometheus, Grafana<br>
+<br>
+Fev2020 - present ( 2 years ) <br>
 
 **Build Scalable Traffic Management Platform**<br>
 * Traffic Shaping/Shadowing
@@ -100,9 +100,9 @@ Fev2020 - present ( 2 years ) </br>
 * DNS Management
 * Network Policies
 <br>
-</br>
-**Tech Types:** Az Scale Sets, Docker, Jenkins, Python, Lua, Salt, Az Firewall, Prometheus, Grafana, Kong, Nginx, HA Proxy</br>
-</br>
+<br>
+**Tech Types:** Az Scale Sets, Docker, Jenkins, Python, Lua, Salt, Az Firewall, Prometheus, Grafana, Kong, Nginx, HA Proxy<br>
+<br>
 Fev2020 - present ( 2 years )<br>
 
 **Build User Data Geo-Distribution Regulation**<br>
