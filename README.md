@@ -116,7 +116,7 @@ Fev2020 - present ( 2 yrss )<br>
 * OpenID AuthN & AuthZ
 <br>
 <br>
-Sept2019 - Fev2020<br> (5 mos )
+Sept2019 - Fev2020 (5 mos )<br>
 
 ### **Build Geo-distributed Platform**<br>
 * Geo-redundacy
@@ -126,11 +126,15 @@ Sept2019 - Fev2020<br> (5 mos )
 <br>
 Jan2017 - Ago2019 ( 2 yrss 8 mos )<br> 
 
-### **Build Commerce Platform**<br>
+### **Build Public API Platform ( commerce )**<br>
+This project aims to expose a public interface for the commerce platform to support partners use cases and mobile applications. Since the goal had an extremely hard date, we decided to go with a Gateway Pattern with REST architectural constraints supported with current Monolithics and build new services to support new capabilities.
+As a Software Developer and Team Lead for this project, I´ve been responsible for designing the long term-vision, supporting all decisions with References Architectures. As a leader, I try to have a motivated team, create a collaborative mindset and support all team needs.
 * Convert Monolithic to Service Oriented Architecture
-* Build Public API ( Gateway Pattern )
+* Build Public API ( Gateway Pattern with REST)
 * CQS / CQRS
 <br>
+<br>
+**Tech Types:** C#, .NET Framework 3.5, MySQL, Redis, MongoDB, MemCache, Elastic Search, CQS, CQRS, Kafka, REST, OpenAPI, Rabbit MQ, PACT.IO, JMeter, New Relic, Kibana<br>
 <br>
 Jan2016 - Dez2016 ( 1 yrs )<br>
 
