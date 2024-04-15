@@ -8,6 +8,7 @@
 **Nationality:** Portugal  <br>
 **Marital Status:** Maried  <br>
 
+
 ## Summary
 A passionate Software Architect, who over the years has specialized in web and platform solutions development, with a special focus on new technologies with a DevOps mindset. 
 In life, I love a good time with family, travelling around the world and with a dirty bike always in mind.
@@ -22,9 +23,10 @@ Prometheus, Salt, Ansible, Digital Ocean
 
 ## Certifications
 
-### **CKS** -  **[Study Process] - Exam**
+### **CKS**<br>
 The Certified Kubernetes Security Specialist (CKS) program provides assurance that a CKS has the skills, knowledge, and competence on a broad range of best practices for securing container-based applications and Kubernetes platforms during build, deployment and runtime. CKA certification is required to sit for this exam.
 <br>
+[Credential ID](https://www.credly.com/badges/821dc402-c312-4dd8-8aef-4cf480d0e0f7/public_url)
 * Fev2022<br>
 
 ### **CKA**<br>
@@ -119,7 +121,7 @@ This project aims to achieve the new User Data Personally Identifiable Informati
 Since we work in a Geo-distributed system where the User Data flows to all the available regions, we need to support a set of rules based on User Data Regulation. To achieve that goal we create a set of workflows based on the Country of Origin of the User and split the cross-cutting data from Users Data. With Cassandra as a data store we where able to defined the replication strategy and replication factor by country.
 
 * Segregate User Data by Country Law
-* Geo-Distrubution
+* Geo-Distribution
 * Manage Personal Identifiable Information (PII)
 * OpenID AuthN & AuthZ
 * Pipes & Filter Pattern
@@ -131,7 +133,7 @@ Since we work in a Geo-distributed system where the User Data flows to all the a
 * Sept2019 - Fev2020 (5 mos )<br>
 
 ### **Build Geo-distributed Platform**<br>
-In this project, the goal is to achieve an Active-Active multi-datacenter geo-distributed platform. Starting with service foundations, for the data store, we adopt Cassandra to do the data replication across the available zones and replicate the platform events with Kafka replicator.
+The goal of this project is to achieve an active-active multi-datacenter geo-distributed platform. Starting with service foundations, for the data store, we adopt Cassandra to do the data replication across the available zones and replicate the platform events with Kafka replicator.
 In this challenge, I was responsible for supporting all the requirements to the Public APIs, creating the foundation to support Cassandra as a Database and guaranteeing the availability of all Public API in 3 Azure Datacenters.
 As an Architect for this initiative, I´ve been responsible for designing the long term vision, supporting all decisions with References Architectures and working together with the team to achieve that requirement as soon as possible.
 
