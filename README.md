@@ -181,7 +181,7 @@ ISEP - Instituto Superior de Engenharia do Porto<br>
 * Farfetch
     * **Principal Software Architect**<br>
     Mar 2021 – Present<br>
-    Employment Duration - 11 mos<br>
+    Employment Duration - 3 yrs<br>
     * **Senior Software Architect**<br>
     Apr 2018 – Present<br>
     Employment Duration - 3 yrs<br>
